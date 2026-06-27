@@ -1,0 +1,5 @@
+numpy>=1.19.0
+opencv-python>=4.5.0
+psutil>=5.8.0
+tensorflow-cpu>=2.0.0
+mtcnn>=0.1.0

@@ -1,0 +1,12 @@
+# Ignored directories
+python-embed/
+face_detection/output/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
